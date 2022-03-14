@@ -3,6 +3,10 @@
     padding:0;
 }
 
+body{
+    height:100vh;
+}
+
 header{
     background-color: #1F2937;
 }
@@ -62,7 +66,7 @@ nav ul li a{
     display:flex;
     justify-content: center;
     align-items: center;
-    padding:100px 0;
+    padding:80px 0;
     gap:40px;
 }
 
