@@ -6,3 +6,42 @@
 header{
     background-color: #1F2937;
 }
+
+.logo h1{
+    font-size:24px;
+    color: #F9FAF8;
+}
+
+nav ul{
+    list-style-type: none;
+}
+
+nav ul li a{
+    text-decoration: none;
+    font-size:18px;
+    color:#E5E7EB;
+}
+
+.left h1{
+    font-size:48px;
+    font-weight:bold;
+    color:#F9FAF8;
+}
+
+.left p{
+    font-size:18px;
+    color:#E5E7EB;
+}
+
+.left button{
+    background-color:#3882F6;
+    color:white;
+    border-radius:12%;
+    border-width: 0;
+    padding:10px;
+}
+
+.right img{
+    width:300px;
+    height:200px;
+}
