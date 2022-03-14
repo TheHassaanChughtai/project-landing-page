@@ -62,3 +62,8 @@ nav ul li a{
     justify-content: center;
     align-items: center;
 }
+
+nav ul{
+    display: flex;
+    gap:12px;
+}
