@@ -87,6 +87,10 @@ nav ul{
     gap:60px;
 }
 
+.cards p{
+    max-width: 150px;
+}
+
 .section-one img{
     width:150px;
     height:150px;
