@@ -113,8 +113,11 @@ nav ul{
 }
 
 .section-two p{
+    text-align: center;
     font-size:36px;
     font-weight: lighter;
     font-style: italic;
     color:#1F2937;
+    width:75%;
+    margin:0 auto;
 }
