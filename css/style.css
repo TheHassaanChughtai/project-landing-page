@@ -83,3 +83,8 @@ nav ul{
 .cards{
     display:flex;
 }
+
+.section-one img{
+    width:150px;
+    height:150px;
+}
