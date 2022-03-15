@@ -84,6 +84,7 @@ nav ul{
 
 .cards{
     display:flex;
+    gap:60px;
 }
 
 .section-one img{
