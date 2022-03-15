@@ -107,3 +107,14 @@ nav ul{
 .section-one p{
     color:#1F2937;
 }
+
+.section-two{
+    background-color:#E5E7EB;
+}
+
+.section-two p{
+    font-size:36px;
+    font-weight: lighter;
+    font-style: italic;
+    color:#1F2937;
+}
